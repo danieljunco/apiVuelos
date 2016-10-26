@@ -1,0 +1,31 @@
+{
+  "vuelos":[
+    {
+    "CodigoVuelo": "AV 9756",
+    "Trayecto": "BOG -  CTG",
+    "Estado":"ARRIBÓ",
+    "Fecha":"25 de octubre de 2016",
+    "HoraSalida":"8:05 am",
+    "Hora llegada":"9:30"
+  },
+
+  {
+    "CodigoVuelo": "AV 8556",
+    "Trayecto": "BOG -  NY",
+    "Estado":"SALIO",
+    "Fecha":"25 de octubre de 2016",
+    "HoraSalida":"08:05 pm",
+    "Hora llegada":"11:30 pm"
+  },
+
+  {
+    "CodigoVuelo": "AV 8548",
+    "Trayecto": "BOG -  CTG",
+    "Estado":"ARRIBÓ",
+    "Fecha":"25 de octubre de 2016",
+    "HoraSalida":"9:05 am",
+    "Hora llegada":"10:30" 
+  }
+
+  ]
+}
